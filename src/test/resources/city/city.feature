@@ -1,4 +1,4 @@
-Feature: Cites Feature
+Feature: Cities Feature
 
   Background:
     * url pharmaciesUrl
